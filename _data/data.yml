@@ -1,0 +1,263 @@
+sidebar:
+  education: true
+
+  # Profile information
+  name: Alex Malaszkiewicz
+  tagline: Full Stack Developer, Web Application Consultant
+  avatar: torrocus.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: alek+online@torrocus.com
+  phone:
+  website: https://fractalsoft.org
+  linkedin: torrocus
+  github: torrocus
+  # gitlab: torrocus
+  # bitbucket: torrocus
+  twitter: '@torrocus'
+  # stack-overflow: 2883890/torrocus
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-nickname
+
+  languages:
+    - idiom: 🇺🇸 English
+      level: Good
+
+    - idiom: 🇵🇱 Polish
+      level: Native
+
+  interests:
+    - item: Open Source
+      link:
+
+    - item: Sailing
+      link:
+
+    - item: Dancing
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I've been programming since I remember.
+    I turned my passion into work.
+    Experience has taught me that technology is just a tool.
+    But I like my tools: **Ruby** (programming language), **Ruby on Rails** (backend development framework), Linux.
+    I share my knowledge and experience.
+    I'm a mentor at **CoderDojo** and at the **Rails Girls** workshop.
+    I participate in conferences and local IT meetings, and sometimes I present a technical presentation.
+
+education:
+
+experiences:
+    - role: Full Stack Developer
+      time: 2011 - Present
+      company: Fractal Soft, remotely
+      details: |
+        Instead of websites for local clients, we started to implement long-term projects.
+
+        Initially, we worked on the **casino online**.
+        We've built games like slot machine (fruit machine), American poker, Blackjack (Twenty-One), American style roulette and French/European style roulette.
+        The application had a management panel for moderators, which allowed to check the entire history of games played.
+        My tasks in this project included prototyping and technical decision making, architecture design, refactoring and performance optimization, integration of individual modules, deployment, team management and customer contact.
+        The project was written in **Ruby on Rails** with elements in **JavaScript**.
+        We used animations based on sprites and CSS3.
+        The whole was well tested in **RSpec** and **Cucumber** with **Selenium**.
+
+        In the meantime, we were implementing a web application to **manage ideas** as hitdea.
+        I was responsible for design architecture and implementation, managing a team of a few people and translating business requirements into technical tasks.
+        As **DevOps**, I was also involved in building and developing network and system infrastructure as well as deployment of **Rails applications** to production.
+        Acting as the **CTO**, I participated in key business meetings for this startup (San Francisco, New York, Maiami).
+
+        During the end of the first version of the application we received feedback about the need to build a mobile application.
+        We decided to divide the monolithic architecture into microservices and at the same time build a frontend that communicates with the backend via the API.
+        Thanks to the use of **Ember.js** as a frontend framework and **PhoneGap** as a mobile development framework, we were able to quickly implement a mobile application.
+        Although a second, working version of the application was created, it has never been used in production.
+        <!-- In retrospect, I consider the decision to build microservices as erroneous and premature. -->
+
+        There were also many other applications in which I had my share.
+        I created contextual advertising management application in **Ruby on Rails**.
+        I co-created a system of linguistic analysis for Polish and English based on 6 million words and **Solr** search engine.
+        I worked on linguistic games built on **Ruby on Rails**.
+        I must also mention such applications as SelectHub, purpura, or nopaperwork.
+
+        As a programmer, my main task is to deliver well-done products.
+        I like my job and my company.
+        I am always open to work as a contractor or **freelancer**.
+
+    - role: Web Developer / Project Manager / CEO
+      time: 2007 - 2011
+      company: Fractal Soft, Gliwice
+      details: |
+        I decided to become an entrepreneur and together with a friend I founded a small interactive agency.
+        We implemented simple projects for local companies.
+        We focused on providing websites, online stores and small applications in PHP.
+        For web projects I used **PHP** language, Smarty template engine, **MySQL** and **PostgreSQL** databases and **Magento** eCommerce platform.
+        In addition, I participated in the design, preparation and implementation of the **embedded system** for gambling machines.
+        The embedded system built by our team was called FSL4G (_Fractal Soft Linux for Games_).
+
+    - role: Java GUI Developer
+      time: 2007
+      company: Wasko, Gliwice
+      details: |
+        I dealt with both internal and external projects.
+        I belonged to a team of several people writing in Java, specializing in the implementation of GUI.
+        Depending on the affiliation to the project and the project team, I used different Java versions and required technologies.
+        One of the projects was a **SCADA** (_Supervisory, Control and Data Aquisition_) class system called OpenEye SCADA.
+        It was a product for monitoring and management of industrial infrastructure.
+        I implemented a module to monitor the activity of web servers.
+        I have created the following functionalities:
+
+        - query generation
+        - impersonating the device
+        - proxy connections
+        - response analysis
+
+        I also worked on the CallMax project.
+        It is a Call Center / Contact Center tool used for communication between the company and clients.
+        It enables the introduction of standards and optimization of telephone conversations, electronic correspondence and SMS messages.
+        It's used for mass service of business partners and individual clients.
+
+        I could develop my programming skills as well as knowledge in the field of network security and operating system administration.
+
+
+    - role: Software Developer
+      time: 2006
+      company: Mentor Graphics, Katowice
+      details: |
+        I worked in a team that created DxDesigner - schematic editor for electronic schematics.
+        This software was designed to assist designers in designing electronic diagrams, optimize their work and minimize potential design errors.
+        I was responsible for the development of a solver based on logic programming.
+        Most of the program was implemented in C++ using the Boost C++ or Qt libraries.
+        The solver was implemented in the language Prolog (**Logic Programming Language**).
+
+projects:
+  title: Projects
+  intro: >
+    Internet applications that I have worked on.
+    Some of them may have already been turned off.
+    Not all startups are still available on the market.
+
+  assignments:
+    - title: nopaperwork - invoice generator
+      link: http://nopaperwork.org
+      rel: ''
+      tagline: >
+        Web application for company management.
+        The main functionality is issuing invoices.
+        This process can be facilitated by building a list of clients and creating orders.
+        The application is written in **Ruby on Rails**, with support for many languages and support for many companies from different countries.
+        The application has well-thought-out architecture and business logic.
+        For example, it is insensitive to deleting or modifying customer data for already posted invoices.
+        I am the main programmer working on this project, so the web application uses the latest stable versions of Ruby language and Ruby on Rails framework and has tests in MiniTest.
+      way_of_working: remotely
+
+    - title: SelectHub
+      link: https://selecthub.com
+      tagline: >
+        This web application is selection management platform which help companies make better and faster purchase decisions.
+        The application allows creating templates and matching products that meet specific criteria.
+        The main products, sold on the platform, are software.
+        This tool allows you to get better prices from suppliers and manufacturers and it is easier to compare different variants of software.
+        When I joined the project, an additional business model was introduced.
+        Knowing the clients' needs, they started selling leads to software suppliers.
+        The application was written in the **Ruby on Rails** framework on the backend and **Backbone.js** and **Marionette.js** on the frontend.
+      way_of_working: remotely
+
+    - title: Purpura
+      link: http://purpura.eu
+      tagline: >
+        Web application to design _traditional cement mosaic tiles_.
+        The client has many existing tile patterns at his disposal or can draw them himself in the browser.
+        The application supports the entire sales process.
+        Starting from the moment of designing patterns, through the offer inquiry, submitting the offer, ordering, and invoicing.
+        Purpura application is built in **Ruby on Rails** and **Ember.js**
+        At present, the project requires mainly maintenance and slow development.
+        Now I'm the only programmer working on this application.
+      way_of_working: remotely
+
+    - title: hitdea
+      link: http://hitdea.com
+      tagline: >
+        Application to empower people in creative process.
+        The goal of the application is to support ideas management in project teams.
+        This platform is based on the _Creative Problem Solving_ methodology.
+        It is a process that allows you to apply creative and critical thinking, to separate the generation of ideas from the selection of ideas.
+        The app includes several creative tools for asynchronous and synchronous operations.
+        In technical terms, the first version was created as a monolithic application written in the **Ruby on Rails** framework.
+        The next version of the application was based on microservices.
+        All _microservices_ were in Ruby on Rails, and on the frontend side Ember.js was used.
+        Additionally, based on front-end applications, a _mobile application_ was created using Apache Cordova.
+      way_of_working: remotely
+
+    - title: Software House website
+      link: https://fractalsoft.org
+      rel: ''
+      tagline: >
+        Fractal Soft is Ruby on Rails development company.
+        Website is built on Ruby on Rails framework and CoffeeScript.
+        Most of them are static pages in English and Polish, optimized for **SEO**.
+        The project is **Open Source** and everyone in the company can contribute to it.
+      way_of_working: remotely / in office
+
+    - title: Technical blog about Ruby on Rails, JavaScript, Unity
+      link: https://blog.fractalsoft.org
+      rel: ''
+      tagline: >
+        This is a static blog based on **Jekyll engine**.
+        I care about it in technical terms (adding new functionalities, plugins, updates) and in terms of content (I create articles).
+        I'm a contributor to the Minimal Mistakes template we use on this company blog.
+        The content of the articles relate to various technologies, i.e. Ruby or Unity, and our activities for the community (CoderDojo, Rails Girls, Global Game Jam).
+      way_of_working: remotely / in office
+
+# publications:
+#   title: Publications
+#   intro: |
+#     I always thought about writing a book.
+#     This is important to me because I want to share my knowledge and experience.
+
+#   papers:
+#     - title: The Art of Computer Programming
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
+
+skills:
+  title: Skills &amp; Proficiency
+  intro: >
+    Nobody but the creator knows 100% of the technology.
+    The more we deepen our knowledge in a given field, the better we realize what we do not know yet.
+    This is my subjective assessment.
+    I have taken into account the technologies that I like and in which I feel good.
+    If there is no technology here that is needed then I will be happy to learn it.
+
+  toolset:
+    - name: Ruby
+      level: 95%
+
+    - name: Ruby on Rails
+      level: 90%
+
+    - name: JavaScript & CoffeeScript
+      level: 75%
+
+    - name: Backbone.js & Marionette.js
+      level: 70%
+
+    - name: Ember.js
+      level: 65%
+
+    - name: Jekyll
+      level: 85%
+
+    - name: Git
+      level: 92%
+
+    - name: Linux
+      level: 95%
+
+    - name: HTML5 & CSS
+      level: 97%
+
+footer: >
+  My personal data can be used only for recruitment process.
+  Please, remember to respect my right to privacy.
