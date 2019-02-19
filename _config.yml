@@ -1,14 +1,15 @@
 # Site settings
 baseurl: '/cv'
-url: https://torrocus.com
+url: &url https://torrocus.com
 
 # Meta settings
 description: "I'm a programmer and I'm proud of it."
 title: Full Stack Developer using Ruby on Rails and JavaScript. Web app consultant and admin. | My resume
 
+# Theme settings
+chrome_mobile_color: '#1F272F' # color for chrome mobile searchbar
 # blue turquoise green berry orange ceramic
 theme_skin: personalized
-chrome_mobile_color: '#1F272F' # color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-127739651-1
