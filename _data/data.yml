@@ -44,8 +44,8 @@ career-profile:
     Experience has taught me that technology is just a tool.
     But I like my tools: **Ruby** (programming language), **Ruby on Rails** (backend development framework), Linux.
     I share my knowledge and experience.
-    I'm a mentor at **CoderDojo** and at the **Rails Girls** workshop.
-    I participate in conferences and local IT meetings, and sometimes I present a technical presentation.
+    I'm a mentor at **CoderDojo** and at the **Rails Girls** workshops.
+    I participate in conferences and local IT meetings, and sometimes, I present a technical presentation.
 
 education:
 
@@ -54,7 +54,7 @@ experiences:
       time: 2011 - Present
       company: Fractal Soft, remotely
       details: |
-        Instead of websites for local clients, we started to implement long-term projects.
+        Instead of creating websites for local clients, we started to implement long-term projects.
 
         Initially, we worked on the **casino online**.
         We've built games like slot machine (fruit machine), American poker, Blackjack (Twenty-One), American style roulette and French/European style roulette.
@@ -62,17 +62,17 @@ experiences:
         My tasks in this project included prototyping and technical decision making, architecture design, refactoring and performance optimization, integration of individual modules, deployment, team management and customer contact.
         The project was written in **Ruby on Rails** with elements in **JavaScript**.
         We used animations based on sprites and CSS3.
-        The whole was well tested in **RSpec** and **Cucumber** with **Selenium**.
+        The whole app was well tested in **RSpec** and **Cucumber** with **Selenium**.
 
-        In the meantime, we were implementing a web application to **manage ideas** as hitdea.
-        I was responsible for design architecture and implementation, managing a team of a few people and translating business requirements into technical tasks.
+        In the meantime, we were implementing a web application to **manage ideas** called hitdea.
+        I was responsible for designing architecture and implementation, managing a team of a few people and translating business requirements into technical tasks.
         As **DevOps**, I was also involved in building and developing network and system infrastructure as well as deployment of **Rails applications** to production.
-        Acting as the **CTO**, I participated in key business meetings for this startup (San Francisco, New York, Maiami).
+        Acting as the **CTO**, I participated in key business meetings for this startup (San Francisco, New York, Miami).
 
         During the end of the first version of the application we received feedback about the need to build a mobile application.
         We decided to divide the monolithic architecture into microservices and at the same time build a frontend that communicates with the backend via the API.
         Thanks to the use of **Ember.js** as a frontend framework and **PhoneGap** as a mobile development framework, we were able to quickly implement a mobile application.
-        Although a second, working version of the application was created, it has never been used in production.
+        Although, a second, working version of the application was created, it has never been used in production.
         <!-- In retrospect, I consider the decision to build microservices as erroneous and premature. -->
 
         There were also many other applications in which I had my share.
@@ -92,7 +92,7 @@ experiences:
         I decided to become an entrepreneur and together with a friend I founded a small interactive agency.
         We implemented simple projects for local companies.
         We focused on providing websites, online stores and small applications in PHP.
-        For web projects I used **PHP** language, Smarty template engine, **MySQL** and **PostgreSQL** databases and **Magento** eCommerce platform.
+        For web projects, I used **PHP** language, Smarty template engine, **MySQL** and **PostgreSQL** databases and **Magento** eCommerce platform.
         In addition, I participated in the design, preparation and implementation of the **embedded system** for gambling machines.
         The embedded system built by our team was called FSL4G (_Fractal Soft Linux for Games_).
 
@@ -105,7 +105,7 @@ experiences:
         Depending on the affiliation to the project and the project team, I used different Java versions and required technologies.
         One of the projects was a **SCADA** (_Supervisory, Control and Data Aquisition_) class system called OpenEye SCADA.
         It was a product for monitoring and management of industrial infrastructure.
-        I implemented a module to monitor the activity of web servers.
+        I achieved a module to monitor the activity of web servers.
         I have created the following functionalities:
 
         - query generation
@@ -129,7 +129,7 @@ experiences:
         This software was designed to assist designers in designing electronic diagrams, optimize their work and minimize potential design errors.
         I was responsible for the development of a solver based on logic programming.
         Most of the program was implemented in C++ using the Boost C++ or Qt libraries.
-        The solver was implemented in the language Prolog (**Logic Programming Language**).
+        The solver was realized in the language Prolog (**Logic Programming Language**).
 
 projects:
   title: Projects
@@ -156,7 +156,7 @@ projects:
       link: https://selecthub.com
       tagline: >
         This web application is selection management platform which help companies make better and faster purchase decisions.
-        The application allows creating templates and matching products that meet specific criteria.
+        The application accords creating templates and matching products that meet specific criteria.
         The main products, sold on the platform, are software.
         This tool allows you to get better prices from suppliers and manufacturers and it is easier to compare different variants of software.
         When I joined the project, an additional business model was introduced.
