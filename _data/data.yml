@@ -67,13 +67,13 @@ experiences:
         In the meantime, we were implementing a web application to **manage ideas** called hitdea.
         I was responsible for designing architecture and implementation, managing a team of a few people and translating business requirements into technical tasks.
         As **DevOps**, I was also involved in building and developing network and system infrastructure as well as deployment of **Rails applications** to production.
-        Acting as the **CTO**, I participated in key business meetings for this startup (San Francisco, New York, Miami).
+        Acting as the **CTO**, I participated in key business meetings for this startup (San Francisco, Los Angeles, New York, Miami).
 
         During the end of the first version of the application we received feedback about the need to build a mobile application.
         We decided to divide the monolithic architecture into microservices and at the same time build a frontend that communicates with the backend via the API.
         Thanks to the use of **Ember.js** as a frontend framework and **PhoneGap** as a mobile development framework, we were able to quickly implement a mobile application.
         Although, a second, working version of the application was created, it has never been used in production.
-        <!-- In retrospect, I consider the decision to build microservices as erroneous and premature. -->
+        In retrospect, I consider the decision to build microservices as erroneous and premature.
 
         There were also many other applications in which I had my share.
         I created contextual advertising management application in **Ruby on Rails**.
@@ -154,6 +154,7 @@ projects:
 
     - title: SelectHub
       link: https://selecthub.com
+      rel: nofollow noopener noreferrer
       tagline: >
         This web application is selection management platform which help companies make better and faster purchase decisions.
         The application accords creating templates and matching products that meet specific criteria.
@@ -166,6 +167,7 @@ projects:
 
     - title: Purpura
       link: http://purpura.eu
+      rel: nofollow noopener noreferrer
       tagline: >
         Web application to design _traditional cement mosaic tiles_.
         The client has many existing tile patterns at his disposal or can draw them himself in the browser.
@@ -178,6 +180,7 @@ projects:
 
     - title: hitdea
       link: http://hitdea.com
+      rel: nofollow noopener noreferrer
       tagline: >
         Application to empower people in creative process.
         The goal of the application is to support ideas management in project teams.

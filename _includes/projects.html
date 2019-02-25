@@ -18,15 +18,13 @@
 
   {% for project in projects.assignments %}
     <div class='item text-justify'>
-
       <span class='project-title'>
-        <a href='{{ project.link }}' rel='{{ project.rel || "nofollow noopener noreferrer" }}'>{{ project.title }}</a>
+        <a href='{{ project.link }}' rel='{{ project.rel }}'>{{ project.title }}</a>
       </span>
 
       {% if project.tagline %}
       - <span class='project-tagline'>{{ project.tagline | markdownify | remove: '<p>' | remove: '</p>' }}</span>
       {% endif %}
-
     </div>
   {% endfor %}
 
