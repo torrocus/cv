@@ -9,7 +9,7 @@ sidebar:
   # Sidebar links
   email: alek+online@torrocus.com
   phone:
-  website: https://fractalsoft.org
+  website: https://fractalsoft.org/team
   linkedin: torrocus
   github: torrocus
   # gitlab: torrocus
@@ -34,6 +34,9 @@ sidebar:
       link:
 
     - item: Dancing
+      link:
+
+    - item: Security
       link:
 
 career-profile:
