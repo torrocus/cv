@@ -15,7 +15,7 @@ sidebar:
   # gitlab: torrocus
   # bitbucket: torrocus
   twitter: '@torrocus'
-  # stack-overflow: 2883890/torrocus
+  stack-overflow: 2883890/torrocus
   codewars:
   goodreads: # Number-Username, e.g. 123456-nickname
 
@@ -182,8 +182,6 @@ projects:
       way_of_working: remotely
 
     - title: hitdea
-      link: http://hitdea.com
-      rel: nofollow noopener noreferrer
       tagline: >
         Application to empower people in creative process.
         The goal of the application is to support ideas management in project teams.
@@ -194,6 +192,7 @@ projects:
         The next version of the application was based on microservices.
         All _microservices_ were in Ruby on Rails, and on the frontend side Ember.js was used.
         Additionally, based on front-end applications, a _mobile application_ was created using Apache Cordova.
+        After a few years, the project was closed.
       way_of_working: remotely
 
     - title: Software House website
@@ -253,10 +252,10 @@ skills:
       level: 65%
 
     - name: Jekyll
-      level: 85%
+      level: 89%
 
     - name: Git
-      level: 92%
+      level: 93%
 
     - name: Linux
       level: 95%

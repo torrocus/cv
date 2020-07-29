@@ -19,7 +19,11 @@
   {% for project in projects.assignments %}
     <div class='item text-justify'>
       <span class='project-title'>
+        {% if project.link %}
         <a href='{{ project.link }}' rel='{{ project.rel }}'>{{ project.title }}</a>
+        {% else %}
+        <a id='{{ project.title | slugify: "latin" }}'>{{ project.title }}</a>
+        {% endif %}
       </span>
 
       {% if project.tagline %}
