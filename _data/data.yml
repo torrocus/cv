@@ -142,10 +142,33 @@ projects:
     Not all startups are still available on the market.
 
   assignments:
+    - title: FutureLearn
+      link: https://futurelearn.com
+      rel: nofollow noopener noreferrer
+      tagline: >
+        An application dedicated to remote learning.
+        It enables the creation of various types of courses.
+        It is used by both universities and governmental organizations.
+        The main technologies are **Ruby on Rails**, **React.js**, **GraphQL**, **Hypernova**.
+        The application is very large, so I only had the opportunity to work on a part of it.
+        I was member of the Enterprise development team.
+        And now I'm member of the Professional Services development team.
+      way_of_working: remotely
+
+    - title: Application name is business secret
+      rel: nofollow noopener noreferrer
+      tagline: >
+        The app is from the textile industry.
+        The purpose of the application is to make it easier for customers to place orders and individual projects.
+        The application is developed in **Ruby on Rails** and **React.js** with great emphasis on image processing.
+        This is the prototype phase.
+      way_of_working: remotely
+
     - title: nopaperwork - invoice generator
-      link: http://nopaperwork.org
+      # link: http://nopaperwork.org
       rel: ''
       tagline: >
+        The application is temporarily for internal use only.
         Web application for company management.
         The main functionality is issuing invoices.
         This process can be facilitated by building a list of clients and creating orders.
@@ -237,10 +260,10 @@ skills:
 
   toolset:
     - name: Ruby
-      level: 95%
+      level: 96%
 
     - name: Ruby on Rails
-      level: 90%
+      level: 91%
 
     - name: JavaScript & CoffeeScript
       level: 75%
@@ -251,14 +274,17 @@ skills:
     - name: Ember.js
       level: 65%
 
+    - name: React.js
+      level: 40%
+
     - name: Jekyll
-      level: 89%
+      level: 92%
 
     - name: Git
-      level: 93%
+      level: 94%
 
     - name: Linux
-      level: 95%
+      level: 96%
 
     - name: HTML5 & CSS
       level: 97%
