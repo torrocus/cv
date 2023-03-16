@@ -142,6 +142,21 @@ projects:
     Not all startups are still available on the market.
 
   assignments:
+    - title: Andy
+      link: https://andy.be
+      rel: nofollow noopener noreferrer
+      tagline: >
+        An e-commerce system designed for ordering drinks and more.
+        Deliveries are eco-friendly, right to the door, with return empty bottles.
+        The solution is intended for the Belgian market.
+        The user should enter the postal code before start using.
+        This allows the application to determine if the customer can be served quickly and efficiently.
+        The whole system is divided into microservices.
+        Each microservice is written in **Ruby** and is based on **Sinatra**.
+        The communication is done place through events managed by Kafka.
+        The frontend is an application in **Next.js** with a backend in node.js.
+      way_of_working: remotely
+
     - title: FutureLearn
       link: https://futurelearn.com
       rel: nofollow noopener noreferrer
@@ -151,8 +166,7 @@ projects:
         It is used by both universities and governmental organizations.
         The main technologies are **Ruby on Rails**, **React.js**, **GraphQL**, **Hypernova**.
         The application is very large, so I only had the opportunity to work on a part of it.
-        I was member of the Enterprise development team.
-        And now I'm member of the Professional Services development team.
+        I have been a member of the Enterprise, Professional Services, Content Creation, and finally the Scalable Platform teams.
       way_of_working: remotely
 
     - title: Application name is business secret
@@ -161,7 +175,7 @@ projects:
         The app is from the textile industry.
         The purpose of the application is to make it easier for customers to place orders and individual projects.
         The application is developed in **Ruby on Rails** and **React.js** with great emphasis on image processing.
-        This is the prototype phase.
+        This was the prototype phase.
       way_of_working: remotely
 
     - title: nopaperwork - invoice generator
@@ -275,7 +289,7 @@ skills:
       level: 65%
 
     - name: React.js
-      level: 40%
+      level: 50%
 
     - name: Jekyll
       level: 92%
