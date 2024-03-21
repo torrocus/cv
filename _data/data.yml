@@ -82,11 +82,11 @@ experiences:
         I created contextual advertising management application in **Ruby on Rails**.
         I co-created a system of linguistic analysis for Polish and English based on 6 million words and **Solr** search engine.
         I worked on linguistic games built on **Ruby on Rails**.
-        I must also mention such applications as SelectHub, purpura, or nopaperwork.
+        I must also mention such web  applications as FutureLearn, SelectHub, purpura, or nopaperwork.
 
         As a programmer, my main task is to deliver well-done products.
         I like my job and my company.
-        I am always open to work as a contractor or **freelancer**.
+        I am always open to work as a consultant, contractor or **freelancer**.
 
     - role: Web Developer / Project Manager / CEO
       time: 2007 - 2011
@@ -142,6 +142,15 @@ projects:
     Not all startups are still available on the market.
 
   assignments:
+    - title: BrandActif
+      link: https://www.brandactif.com/
+      rel: nofollow noopener noreferrer
+      tagline: >
+        BrandActif is a modern marketing technology that changes TV watching by making it interactive on a second screen.
+        Viewers can engage with content and ads in real-time, bringing benefits for broadcasters and brands through increased engagement and revenue.
+        I joined this project briefly to update **Ruby** and **Rails** for better **security**.
+      way_of_working: remotely
+
     - title: Andy
       link: https://andy.be
       rel: nofollow noopener noreferrer
@@ -169,17 +178,18 @@ projects:
         I have been a member of the Enterprise, Professional Services, Content Creation, and finally the Scalable Platform teams.
       way_of_working: remotely
 
-    - title: Application name is business secret
+    - title: loominator
       rel: nofollow noopener noreferrer
       tagline: >
         The app is from the textile industry.
         The purpose of the application is to make it easier for customers to place orders and individual projects.
         The application is developed in **Ruby on Rails** and **React.js** with great emphasis on image processing.
         This was the prototype phase.
+        Unfortunately, the investor decided to suspend the development of the application.
       way_of_working: remotely
 
     - title: nopaperwork - invoice generator
-      # link: http://nopaperwork.org
+      link: https://nopaperwork.org
       rel: ''
       tagline: >
         The application is temporarily for internal use only.
@@ -277,7 +287,7 @@ skills:
       level: 96%
 
     - name: Ruby on Rails
-      level: 91%
+      level: 92%
 
     - name: JavaScript & CoffeeScript
       level: 75%
@@ -292,10 +302,10 @@ skills:
       level: 50%
 
     - name: Jekyll
-      level: 92%
+      level: 93%
 
     - name: Git
-      level: 94%
+      level: 95%
 
     - name: Linux
       level: 96%
