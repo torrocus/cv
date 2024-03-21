@@ -148,7 +148,33 @@ projects:
       tagline: >
         BrandActif is a modern marketing technology that changes TV watching by making it interactive on a second screen.
         Viewers can engage with content and ads in real-time, bringing benefits for broadcasters and brands through increased engagement and revenue.
-        I joined this project briefly to update **Ruby** and **Rails** for better **security**.
+        I briefly joined this project.
+        The application is built on Rails, **Postgres** with Multi-Tenancy, and **GraphQL**.
+        My role involved updating **Ruby**, **Rails** and and outdated gems.
+        as well as preparing the application for a security audit.
+        I prepared the app for a **security audit**.
+      way_of_working: remotely
+
+    - title: GOBL / Invopop
+      link: https://gobl.org/
+      rel: nofollow noopener noreferrer
+      tagline: >
+        GOBL (Go Business Language) is an open-source schema for global business documents.
+        It includes a library for building and sharing these documents in JSON format.
+        Packages within GOBL are written in **Go language**.
+        I implemented a converter for the German XRechnung format.
+        I build library that send FatturaPA e-invoices to the Italian e-invoicing exchange system (SDI).
+        The repositories on GitHub are **open source**.
+      way_of_working: remotely
+
+    - title: PoC application
+      tagline: >
+        The app is aimed at job seekers and recruiters.
+        Candidate information is processed automatically using AI.
+        This reduces the time needed for recruitment.
+        The application is based on **Ruby on Rails**, **PostgreSQL**, and **LLM** (large language model).
+        When I joined the project, I prioritized **code quality**, test writing, and CI implementation.
+        App is still in development, not live yet.
       way_of_working: remotely
 
     - title: Andy
@@ -179,7 +205,6 @@ projects:
       way_of_working: remotely
 
     - title: loominator
-      rel: nofollow noopener noreferrer
       tagline: >
         The app is from the textile industry.
         The purpose of the application is to make it easier for customers to place orders and individual projects.
@@ -292,14 +317,14 @@ skills:
     - name: JavaScript & CoffeeScript
       level: 75%
 
-    - name: Backbone.js & Marionette.js
-      level: 70%
+    # - name: Backbone.js & Marionette.js
+    #   level: 70%
 
-    - name: Ember.js
-      level: 65%
+    # - name: Ember.js
+    #   level: 65%
 
     - name: React.js
-      level: 50%
+      level: 55%
 
     - name: Jekyll
       level: 93%
